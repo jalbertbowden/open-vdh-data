@@ -1,0 +1,74 @@
+Disease,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,5-year Average
+AIDS,866,793,774,626,589,599,638,*,*,*,*
+Amebiasis,16,20,25,42,45,53,42,20,14,17,34.8
+Anthrax,0,0,0,0,0,0,0,0,0,0,0
+Arboviral infection,32,31,7,5,5,5,3,8,20,20,8.2
+"Botulism, foodborne",1,0,0,0,0,1,0,0,0,0,0.2
+"Botulism, non-foodborne",3,1,3,1,0,0,3,4,1,2,1.6
+Brucellosis,0,2,1,1,0,0,0,5,0,0,1
+Campylobacteriosis,686,882,668,618,669,665,669,770,778,805,710.2
+Chancroid,1,0,0,0,1,0,0,0,0,0,0.2
+Chickenpox (Varicella),605,682,"1,240","1,834","1,959","1,582","1,489",773,548,549,"1,270.20"
+Chlamydia trachomatis infection,"18,518","19,439","21,635","22,668","24,081","24,528","31,205","30,904","30,799","36,317","28,303.40"
+Cholera,0,0,0,0,0,0,0,0,1,1,0.2
+Creutzfeldt-Jakob disease (CJD)^,1,0,0,0,1,1,0,0,0,0,0.4
+Cryptosporidiosis,35,56,66,77,71,90,81,86,109,140,87.4
+Cyclosporiasis,1,3,1,3,0,2,2,1,1,2,1.2
+Diphtheria,0,0,0,0,0,0,0,0,0,0,0
+Ehrlichiosis/Anaplasmosis,6,12,8,13,8,39,65,72,93,131,55.4
+"E. coli infection, Shiga toxin-producing",81,63,62,111,168,165,241,156,149,123,175.8
+Giardiasis,386,426,563,602,514,582,432,503,512,290,508.6
+Gonorrhea,"10,462","9,062","8,565","8,346","6,474","6,267","10,336","7,791","7,401","6,521","7,653.80"
+Granuloma inguinale,0,0,0,0,0,0,0,0,0,0,0
+"Haemophilus influenzae infection, invasive",41,68,56,61,69,80,92,88,85,108,82.8
+Hansen's disease (Leprosy),0,0,0,0,1,1,0,0,1,1,0.6
+Hantavirus pulmonary syndrome,0,0,0,0,0,0,0,0,0,0,0
+Hemolytic uremic syndrome,8,1,1,1,2,1,2,2,2,3,1.8
+Hepatitis A,163,141,140,93,64,89,51,42,52,30,59.6
+"Hepatitis B, acute",224,227,303,146,78,144,130,110,97,84,111.8
+"Hepatitis C, acute",15,15,15,13,9,8,8,10,13,25,9.6
+HIV disease*,992,797,875,833,914,836,844,1429*,"1,194","1,085",757.6
+Influenza,"3,486","18,765","3,404","15,942","16,107","8,416","24,580","40,614","2,467","18,153","18,436.80"
+Influenza-associated deaths in children~,−,1,1,2,3,3,3,8,0,5,3.4
+Kawasaki syndrome,11,11,16,19,6,2,3,3,2,−,3.2
+Lead - elevated blood levels in children**,791,643,703,527,515,394,307,389,350,274,391
+Legionellosis,35,110,56,55,68,61,66,67,79,93,68.2
+Listeriosis,10,18,27,17,20,16,17,16,13,15,16.4
+Lyme disease,259,202,216,274,357,959,933,908,"1,245","1,023",880.4
+Lymphogranuloma venereum,0,0,1,2,0,0,0,0,0,0,0
+Malaria,36,60,59,44,55,65,49,61,67,78,59.4
+Measles,0,0,0,0,0,0,1,1,3,7,0.4
+Meningococcal disease,46,28,24,35,22,23,24,18,21,18,21.6
+Monkeypox,− ,0,0,0,0,0,0,0,0,0,0
+Mumps,5,1,11,2,117,27,9,9,13,13,35
+Ophthalmia neonatorum,16,10,8,18,11,5,10,7,7,8,8
+Pertussis,168,219,400,363,221,128,198,222,384,399,230.6
+Plague,0,0,0,0,0,0,0,0,0,0,0
+"Poliovirus infection, including poliomyelitis",0,0,0,0,0,0,0,0,0,0,0
+Psittacosis,0,1,0,0,0,0,0,0,0,0,0
+Q fever,0,0,0,2,4,4,2,1,2,3,2.6
+Rabies in animals,592,542,474,495,637,730,620,564,573,618,624.8
+Rabies in humans,0,1,0,0,0,0,0,1,0,0,0.2
+"Rubella, including congenital rubella syndrome",0,0,0,0,0,0,0,0,2,0,0.4
+Salmonellosis,"1,277","1,175","1,196","1,172","1,089","1,249","1,165","1,095","1,210","1,208","1,161.60"
+Severe acute respiratory syndrome (SARS),−,1,0,0,0,0,0,0,0,0,0
+Shigellosis,"1,061",451,167,134,120,200,310,198,145,107,194.6
+Smallpox,0,0,0,0,0,0,0,0,0,0,0
+Spotted Fever Rickettsiosis (including RMSF),43,34,45,121,114,123,155,53,145,231,118
+"Staphylococcus aureus infection, invasive (MRSA)",−,− ,− ,− ,− ,253,"1,524","1,124","1,201","1,304",820.4
+"Staphylococcus aureus infection, VISA or VRSA",0,0,0,0,0,1,0,0,1,2,0.4
+"Streptococcal disease, Group A, invasive or TSS",82,111,74,110,132,162,150,174,191,192,161.8
+"Streptococcus pneumoniae infection, invasive***",20,27,35,37,50,52,52,47,59,33,52
+"Syphilis, early",165,156,224,291,351,407,500,529,553,502,468
+Tetanus,0,0,1,1,0,0,0,0,0,0,0
+Toxic shock syndrome (Staphylococcal),3,3,2,1,0,1,0,0,2,− ,0.6
+Toxic substance-related illness,493,213,321,324,415,434,356,342,298,273,369
+Trichinosis (Trichinellosis),0,0,1,1,0,0,1,0,0,2,0.2
+Tuberculosis,315,332,329,355,332,309,292,273,268,221,294.8
+Tularemia,1,4,0,0,0,3,1,0,1,6,1
+Typhoid fever,8,16,11,20,20,21,19,12,11,9,16.6
+"Vaccinia, disease or adverse event",−,0,0,0,0,0,1,0,0,0,0.2
+Vibrio infection,20,26,20,25,32,33,29,29,40,30,32.6
+Viral hemorrhagic fever,−,0,0,0,0,0,0,0,0,0,0
+Yellow fever,0,0,0,0,0,0,0,0,0,0,0
+Yersiniosis,8,3,10,18,10,10,14,11,13,10,11.6

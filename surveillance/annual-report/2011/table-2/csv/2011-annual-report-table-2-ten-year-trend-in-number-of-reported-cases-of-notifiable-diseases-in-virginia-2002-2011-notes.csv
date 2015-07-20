@@ -1,0 +1,7 @@
+Note,Description
+**^,Condition is reportable only in individuals < 55 years of age.
+**-,Not a reportable disease at this time.
+***,"Beginning with 2009 data, HIV infection and AIDS are no longer being presented separately. Instead, HIV disease will represent the number of persons newly reported to VDH with HIV infection regardless of disease progression, and includes people with an AIDS defining condition at first HIV report."
+~~,Condition is reportable only in children < 18 years of age.
+***,Condition is reportable only in children < 16 years of age.
+***,Condition is reportable only in children < 5 years of age.
