@@ -5,4 +5,5 @@ Open VDH Data - Data produced by Virgina Department of Health, liberated from pr
 ## References and Resources  
 
 [Data &#124; VDH](http://www.vdh.virginia.gov/Data/index.htm)  
-[VDH - Virginia Department of Health](https://www.vdh.virginia.gov/)
+[VDH - Virginia Department of Health](https://www.vdh.virginia.gov/)  
+[Reportable Disease List](http://www.vdh.virginia.gov/Epidemiology/documents/pdf/Reportable_Disease_List.pdf)  
